@@ -20,6 +20,9 @@ web server or even local file system
 
 ## How to contribute
 
+Please fork this repository and then issue
+pull requests for review
+
 ### Copyright  
 
 2014 Git.Training.
